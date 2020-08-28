@@ -53,12 +53,12 @@ When collected, your datasets should look something like this.
 
 ## Citation:
 
-@inproceedings{tryingblp,
-  title={Trying Bilinear Pooling in Video-QA},
-  author={Winterbottom, T. and Al-Moubayed, N and Xiao, S. and McLean, A.},
-  booktitle={Someone},
-  year={2020}
-}
+~~@inproceedings{tryingblp,~~
+~~  title={Trying Bilinear Pooling in Video-QA},~~
+~~  author={Winterbottom, T. and Xiao, S. and McLean, A. and Al-Moubayed, N},~~
+~~  booktitle={arXiv},~~
+~~  year={2020}~~
+~~}~~
 
 ## Help:
 
