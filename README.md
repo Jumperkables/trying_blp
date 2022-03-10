@@ -1,6 +1,6 @@
-# Trying Bilinear Pooling in Video-QA:
+# Limitations of Bilinear Pooling in Video-QA:
 
-The official github repository for [Trying Bilinear Pooling in Video-QA](localhost:8097). This repository uses code adapted from the [TVQA](https://github.com/jayleicn/TVQA.git) and [Heterogeneous Memory Enhanced VQA](https://github.com/fanchenyou/HME-VideoQA) repositories.
+The official github repository for [Trying Bilinear Pooling in Video-QA](https://arxiv.org/pdf/2012.10285.pdf). This repository uses code adapted from the [TVQA](https://github.com/jayleicn/TVQA.git) and [Heterogeneous Memory Enhanced VQA](https://github.com/fanchenyou/HME-VideoQA) repositories.
 
 ## Usage:
 
@@ -10,7 +10,7 @@ Our paper surveys 4 datasets across 2 models. In total you'll need to prepare th
 
 ### TVQA:
 
-We have merged our TVQA code for this project with another of our projects, [On Modality Bias in the TVQA Dataset](https://github.com/Jumperkables/kable_management/tree/master/projects/tvqa_modality_bias). Follow the setup instructions for this repository, including data collection, and leave it in this position under the name 'tvqa'.<br>
+We have merged our TVQA code for this project with another of our projects, [On Modality Bias in the TVQA Dataset](https://github.com/Jumperkables/tvqa_modality_bias). Follow the setup instructions for this repository, including data collection, and leave it in this position under the name 'tvqa'.<br>
 <strong>To reproduce the experiments in this paper you will not need to extract regional features. Feel free to skip that rather complicated step.</strong>
 
 ### HME-TVQA:
@@ -53,13 +53,3 @@ When collected, your datasets should look something like this.
 
 ## Citation:
 
-~~@inproceedings{tryingblp,~~
-~~  title={Trying Bilinear Pooling in Video-QA},~~
-~~  author={Winterbottom, T. and Xiao, S. and McLean, A. and Al-Moubayed, N},~~
-~~  booktitle={arXiv},~~
-~~  year={2020}~~
-~~}~~
-
-## Help:
-
-Feel free to contact us @ thomas.i.winterbottom@durham.ac.uk
